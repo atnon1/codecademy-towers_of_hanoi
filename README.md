@@ -1,5 +1,5 @@
 # Codecademy Project Tower of Hanoi (Guided Project)
-Made by Anton Makeev(at-mak@mail.ru)
+Made by Anton Makeev (at-mak@mail.ru)
 
 Python 3.6.9
 
